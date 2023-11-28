@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855460027531",
+    "project_id": "kuncer-s-mother-poker",
+    "storage_bucket": "kuncer-s-mother-poker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855460027531:android:006196ce74fffd8ec5088e",
+        "android_client_info": {
+          "package_name": "com.example.liars_poker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASbSyIB5ibC_A8iBfwUyfzMJ1Kkrl4Ljo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
